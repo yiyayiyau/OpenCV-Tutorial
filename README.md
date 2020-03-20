@@ -1,2 +1,2 @@
 # OpenCV-Tutorial
-Learing form Youtube George Lecakes
+Learning form Youtube George Lecakes
